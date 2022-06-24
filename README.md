@@ -1,8 +1,11 @@
-# I4G_Zuri FullStack JavaScriptScreenCalculator Task
+# I4G_Zuri FullStack Task 
+
+## Title: Introduction to javascript.
 Build a basic arithmetic calculator without a frontend.
 
 
-## Assignment
+## Assignment: JavaScriptScreenCalculator Task
+
 
 **Build a basic arithmetic calculator without a frontend**
 
